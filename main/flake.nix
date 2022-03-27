@@ -11,6 +11,7 @@
   inputs.src-ndns-main.ref   = "refs/heads/main";
   inputs.src-ndns-main.owner = "rockcavera";
   inputs.src-ndns-main.repo  = "nim-ndns";
+  inputs.src-ndns-main.dir   = "";
   inputs.src-ndns-main.type  = "github";
   
   inputs."dnsprotocol".owner = "nim-nix-pkgs";
